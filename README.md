@@ -29,3 +29,12 @@ visual-rag-project/<br>
 │-- app.py # Main application<br>
 │-- requirements.txt # Dependencies<br>
 │-- .gitignore # Ignored files<br>
+
+
+---
+
+## ⚙️ Installation
+1. **Clone the repository**
+```bash
+git clone https://github.com/vidhirawat10/visual-rag-project.git
+cd visual-rag-project
