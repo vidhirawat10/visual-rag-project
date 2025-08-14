@@ -54,4 +54,16 @@ visual-rag-project/<br>
    python app.py
    ```
    
+---
+
+## 📊 Example Use Cases
+- **AI-powered knowledge assistants for companies**
+- **Smart research paper search**
+- **FAQ bots with contextual awareness**
+- **Analytics dashboards powered by retrieved document data**
+
+---
+   
+   
+   
    
