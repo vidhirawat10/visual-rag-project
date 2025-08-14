@@ -35,10 +35,10 @@ visual-rag-project/<br>
 
 ## ⚙️ Installation
 1. **Clone the repository**
-```bash
-git clone https://github.com/vidhirawat10/visual-rag-project.git
-cd visual-rag-project
-```
+   ```bash
+   git clone https://github.com/vidhirawat10/visual-rag-project.git
+   cd visual-rag-project
+   ```
 2. **Create virtual environment (optional but recommended)**
    ```bash
    python -m venv venv
