@@ -63,7 +63,14 @@ visual-rag-project/<br>
 - **Analytics dashboards powered by retrieved document data**
 
 ---
-   
+
+  ## 💡 Future Enhancements
+- 🌐 **Web-based UI for interactive querying**
+- 🖼 **Visual analytics & dashboard integration**
+- 🔒 **User authentication & role-based access**
+- 📁 **Multi-format document support (images, audio transcripts, etc.)**
+
+---
    
    
    
