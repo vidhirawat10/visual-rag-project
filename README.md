@@ -71,6 +71,10 @@ visual-rag-project/<br>
 - 📁 **Multi-format document support (images, audio transcripts, etc.)**
 
 ---
+
+## made by Vidhi Rawat
+
+---
    
    
    
