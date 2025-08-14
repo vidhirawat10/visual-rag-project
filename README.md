@@ -38,3 +38,20 @@ visual-rag-project/<br>
 ```bash
 git clone https://github.com/vidhirawat10/visual-rag-project.git
 cd visual-rag-project
+```
+2. **Create virtual environment (optional but recommended)**
+   ```bash
+   python -m venv venv
+   source venv/bin/activate   # Linux/Mac
+   venv\Scripts\activate      # Windows
+   ```
+3. **Install dependencies**
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. **▶️ Usage**
+   ```bash
+   python app.py
+   ```
+   
+   
