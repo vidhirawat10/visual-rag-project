@@ -24,3 +24,8 @@ It integrates **document parsing, embedding, and intelligent querying**, making 
 ---
 
 ## 📂 Project Structure
+
+visual-rag-project/<br>
+│-- app.py # Main application<br>
+│-- requirements.txt # Dependencies<br>
+│-- .gitignore # Ignored files<br>
