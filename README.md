@@ -1,0 +1,80 @@
+# 📚 Visual RAG Project
+
+**Visual-RAG** is a Retrieval-Augmented Generation (RAG) application designed to process, index, and retrieve documents efficiently.  
+It integrates **document parsing, embedding, and intelligent querying**, making it easier to interact with large datasets.
+
+---
+
+## 🚀 Features
+- 📂 **Document Upload & Processing** – Easily process text, PDF, and other supported formats.
+- 🧠 **RAG-Powered Search** – Uses embeddings for context-aware information retrieval.
+- 📊 **Indexed Storage** – Efficiently store and retrieve relevant document chunks.
+- 🎯 **Query Interface** – Ask natural language questions and get precise answers.
+- ⚡ **Fast & Scalable** – Designed for both small and large datasets.
+
+---
+
+## 🛠 Tech Stack
+- **Python**
+- **LangChain / LlamaIndex** (for RAG pipeline)
+- **OpenAI / Hugging Face Models** (for embeddings & LLM responses)
+- **Streamlit / Flask / FastAPI** (for UI/API)
+- **Vector Databases** – Pinecone / Weaviate / Chroma
+
+---
+
+## 📂 Project Structure
+
+visual-rag-project/<br>
+│-- app.py # Main application<br>
+│-- requirements.txt # Dependencies<br>
+│-- .gitignore # Ignored files<br>
+
+
+---
+
+## ⚙️ Installation
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/vidhirawat10/visual-rag-project.git
+   cd visual-rag-project
+   ```
+2. **Create virtual environment (optional but recommended)**
+   ```bash
+   python -m venv venv
+   source venv/bin/activate   # Linux/Mac
+   venv\Scripts\activate      # Windows
+   ```
+3. **Install dependencies**
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. **▶️ Usage**
+   ```bash
+   python app.py
+   ```
+   
+---
+
+## 📊 Example Use Cases
+- **AI-powered knowledge assistants for companies**
+- **Smart research paper search**
+- **FAQ bots with contextual awareness**
+- **Analytics dashboards powered by retrieved document data**
+
+---
+
+  ## 💡 Future Enhancements
+- 🌐 **Web-based UI for interactive querying**
+- 🖼 **Visual analytics & dashboard integration**
+- 🔒 **User authentication & role-based access**
+- 📁 **Multi-format document support (images, audio transcripts, etc.)**
+
+---
+
+## made by Vidhi Rawat
+
+---
+   
+   
+   
